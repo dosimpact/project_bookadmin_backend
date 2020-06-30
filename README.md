@@ -22,11 +22,11 @@
 
 - STEP1 .dockerignore
 
-```js
-node_modules;
-public.dockerignore;
-Dockerfile;
-Dockerfile.prod;
+```
+node_modules
+public.dockerignore
+Dockerfile
+Dockerfile.prod
 ```
 
 - STEP2 DockerFile
